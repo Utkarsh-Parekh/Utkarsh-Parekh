@@ -5,6 +5,9 @@
  # About me
  
 <p>
+
+<img align="right" width="350" src="/Utkarsh-Parekh/github-image.gif
+" alt="Coding gif" />
   
 - 🏢 I’m currently working in **Tata Consultancy Services(TCS)**
 
