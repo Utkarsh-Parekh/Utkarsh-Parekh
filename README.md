@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/parekh-utkarsh-974657180/)" target="_blank">
+ <a href="[[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/parekh-utkarsh-974657180/)]()" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 
