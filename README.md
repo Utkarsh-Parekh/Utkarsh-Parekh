@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="[(https://www.linkedin.com/in/parekh-utkarsh-974657180/)](https://www.linkedin.com/in/parekh-utkarsh-974657180/)]()" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
 
  <a href="[https://instagram.com/_alsiam](https://www.instagram.com/utkarsh.2405/)" target="_blank">
