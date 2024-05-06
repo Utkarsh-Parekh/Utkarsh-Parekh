@@ -1,3 +1,4 @@
+![Header](./github-header-AD.png)
 <h1 align="center">Hi 👋, I'm Utkarsh Parekh</h1>
 <h3 align="center">A passionate & result oriented android developer</h3>
 
