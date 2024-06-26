@@ -11,7 +11,7 @@
   
 - 🏢 I’m currently working in **Tata Consultancy Services(TCS)**
 
-- 🌱 I’m currently learning **android,Kotlin,Java**
+- 🌱 I’m currently learning & Working on Android Developement,Kotlin,Java,Flutter.
 
 - 💬 Ask me about Java, Python, Kotlin and Android
 
