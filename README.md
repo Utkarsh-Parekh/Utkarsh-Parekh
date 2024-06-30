@@ -1,6 +1,6 @@
 ![Header](./github-header-AD.png)
 <h1 align="center">Hi 👋, I'm Utkarsh Parekh</h1>
-<h3 align="center">A passionate & result oriented android developer</h3>
+<h3 align="center">A passionate & result oriented Android/Flutter developer</h3>
 
 <!-- About Section -->
  # About me
@@ -17,7 +17,7 @@
 
 - ✌️Enjoy to do programming and sharing knowledge
   
-- ❤️Love to writing code and learning new features
+- ❤️Love to writing code and learning new technologies
 
 - 📫 How to reach me **parekhutkarsh024@gmail.com**
 
@@ -39,6 +39,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/parekh-utkarsh-974657180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="UtkarshParekh" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/parekhutkarsh//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="UtkarshParekh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/utkarsh.2405/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="UtkarshParekh" height="30" width="40" /></a>
 </p>
