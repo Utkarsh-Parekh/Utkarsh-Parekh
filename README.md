@@ -1,4 +1,4 @@
-![Header](./github-header-AD.png)
+![Header](./banner_utkarsh.png)
 <h1 align="center">Hi 👋, I'm Utkarsh Parekh</h1>
 <h3 align="center">A passionate & result oriented Android/Flutter developer</h3>
 
