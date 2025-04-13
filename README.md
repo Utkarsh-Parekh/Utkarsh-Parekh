@@ -9,9 +9,9 @@
 
 <img align="right" width="350" src="github-image.gif" alt="Coding gif" />
   
-- 🏢 I’m currently working in **Tata Consultancy Services(TCS)**
+- 🏢 I have previously worked with **Tata Consultancy Services(TCS)**
 
-- 🌱 I’m currently learning & Working on Android Developement,Kotlin,Java,Flutter.
+- 🌱 I’m currently learning & Working on Flutter Developement,Kotlin,Java,Dart
 
 - 💬 Ask me about Flutter, Java, Python, Kotlin and Android
 
